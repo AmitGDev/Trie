@@ -30,7 +30,7 @@ This repository contains an implementation of a dynamic prefix trie in C++. A tr
 
 **Example Usage**
 
-See the **main.cpp** file for examples demonstrating how to use the CharTrie implementation.
+See the **Trie.cpp** file for examples demonstrating how to use the Trie implementation.
 
 <br>
 
