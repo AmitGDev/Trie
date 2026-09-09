@@ -1,4 +1,4 @@
-**Scheduler v1.0.0**
+**Trie v1.0.0**
 
 A **Cross-Platform** Dynamic Prefix Trie Implementation in C++
 
